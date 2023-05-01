@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BIENESTAR CLINIC</string>
+    <string name="empezar">Empezar Diagnostico</string>
+    <string name="si_tengo">SI TENGO</string>
+    <string name="no_tengo">NO TENGO</string>
+    <string name="bienvenida">BIENVENIDO A BIENESTAR CLINIC</string>
+    <string name="sintoma">¿Tiene sintoma X?</string>
+    <string name="reiniciar">REINICIAR DIAGNOSTICO</string>
+    <string name="Diagnostico">Diagnostico</string>
+    <string name="porcent">Porcentaje</string>
+</resources>
